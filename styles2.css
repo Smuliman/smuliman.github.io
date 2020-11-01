@@ -6,10 +6,11 @@ div.right {
     text-align: right;
 }
 div.tausta {
-    background-color: white;;
+    background-color: white;
+    margin-right: 300px;
+
 }
 p.rounded {
     border: 2px solid red;
     border-radius: 8px;
 }
-
