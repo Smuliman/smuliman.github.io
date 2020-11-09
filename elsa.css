@@ -4,7 +4,7 @@ body {
     margin-right: auto;
 }
 div.header {
-    background-color: rgb(104, 218, 247);
+    background-color: rgb(185, 230, 248);
 }
 div.nav {
     background-color: rgb(119, 208, 238);
@@ -12,3 +12,4 @@ div.nav {
 div.section {
     background-color: rgb(136, 233, 236);
 }
+
