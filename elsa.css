@@ -1,9 +1,14 @@
 body {
-    background-color: white;
-    color: black;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
-div.esittely {
-    text-align: right ;
-    background: white   ;
+div.header {
+    background-color: lightblue;
 }
-
+div.nav {
+    background-color: lightskyblue;
+}
+div.section {
+    background-color: cadetblue;
+}
