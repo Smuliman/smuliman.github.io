@@ -4,11 +4,11 @@ body {
     margin-right: auto;
 }
 div.header {
-    background-color: lightblue;
+    background-color: rgb(104, 218, 247);
 }
 div.nav {
-    background-color: lightskyblue;
+    background-color: rgb(119, 208, 238);
 }
 div.section {
-    background-color: cadetblue;
+    background-color: rgb(136, 233, 236);
 }
