@@ -1,0 +1,25 @@
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(236, 236, 236);
+}
+.col-sm-4 {
+    padding: solid;
+    border-radius: 8px;
+}
+
+hr {
+    border: solid black;
+}
+footer {
+    text-align: center;
+    font-size: 24px;
+}
+.col-sm-6 {
+    text-align: center;
+}
+li {
+    font-size: 20px ;
+}
