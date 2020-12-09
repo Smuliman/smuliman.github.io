@@ -3,22 +3,36 @@ body {
     margin-right: 20px;
     margin-top: 30px;
     margin-bottom: 30px;
-    background-color: rgb(236, 236, 236);
 }
-.col-sm-4 {
-    padding: solid;
-    border-radius: 8px;
+
+.tausta1 {
+    background-color: rgb(198, 212, 170);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+img {
+    border-radius: 10px;
 }
 
 hr {
     border: solid black;
 }
-footer {
-    text-align: center;
-    font-size: 24px;
+.pienella {
+    font-size: x-small;
 }
-.col-sm-6 {
+
+.tausta2 {
     text-align: center;
+    background-color: rgb(198, 212, 170);
+    border-radius: 5px;
+
+}
+.tausta3 {
+    background-color: rgb(198, 212, 170);
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
 }
 li {
     font-size: 20px ;
