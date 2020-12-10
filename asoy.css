@@ -8,7 +8,7 @@ body {
 .tausta1 {
     background-color: rgb(198, 212, 170);
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 5px 5px;
 }
 
 img {
@@ -36,4 +36,7 @@ hr {
 }
 li {
     font-size: 20px ;
+}
+iframe {
+    width: 100%;
 }
