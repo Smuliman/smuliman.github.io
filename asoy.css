@@ -8,7 +8,9 @@ body {
 .tausta1 {
     background-color: rgb(198, 212, 170);
     padding: 20px;
-    border-radius: 5px 5px;
+    border-radius: 5px;
+    margin: 15px;
+
 }
 
 img {
